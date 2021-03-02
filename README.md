@@ -17,17 +17,17 @@ The repo contains:
 1) `cmu-36-705-intermediate-statistics-fall-2016-course-page.html` - an archived copy of coursepage
 showing the lecture schedule, reading references etc. 
 
-2) cmu-36-705-intermediate-statistics-fall-2016-syllabus - self-explanatory.
+2) `cmu-36-705-intermediate-statistics-fall-2016-syllabus` - self-explanatory.
 
-3) assignment-questions - contains the 10 problem sets that accompany the course*.
+3) `assignment-questions` - contains the 10 problem sets that accompany the course*.
 
-4) lecture-notes - contains 18 PDF lecture slides covering all the lecture videos.
+4) `lecture-notes` - contains 18 PDF lecture slides covering all the lecture videos.
 
-5) practice-exams - contains 3 practice exams that are posted on the coursepage*.
+5) `practice-exams` - contains 3 practice exams that are posted on the coursepage*.
 
-6) completed-assignments - my own written solutions to the problem sets.
+6) `completed-assignments` - my own written solutions to the problem sets.
 
-7) completed-practice-exams - my own written solutions to the practice exams.
+7) `completed-practice-exams` - my own written solutions to the practice exams.
 
 Remarks:
 
