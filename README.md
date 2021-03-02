@@ -1,8 +1,12 @@
 # CMU 36-705 Intermediate Statistics Fall 2016 (Larry Wasserman)
 
-This repo contains all the lecture materials from this course page:
+The materials in this repo *used to be available* at the following link, but has now disappeared
+due to the instructor updating the course page with new materials:
 
 http://www.stat.cmu.edu/~larry/=stat705/
+
+However, I have archived the course page from the Fall 2016 version of this course, which is accessible
+below.
 
 The videos that accompany the materials in this repo are available at:
 
@@ -15,11 +19,15 @@ showing the lecture schedule, reading references etc.
 
 2) cmu-36-705-intermediate-statistics-fall-2016-syllabus - self-explanatory.
 
-3) homework-assignments - contains the 10 problem sets that accompany the course*.
+3) assignment-questions - contains the 10 problem sets that accompany the course*.
 
 4) lecture-notes - contains 18 PDF lecture slides covering all the lecture videos.
 
 5) practice-exams - contains 3 practice exams that are posted on the coursepage*.
+
+6) completed-assignments - my own written solutions to the problem sets.
+
+7) completed-practice-exams - my own written solutions to the practice exams.
 
 Remarks:
 
