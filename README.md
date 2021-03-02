@@ -14,7 +14,7 @@ https://www.youtube.com/playlist?list=PLNhdfSlxbk-ZC7ipZ_EzhyX7TKrVunWE6
 
 The repo contains:
 
-1) cmu-36-705-intermediate-statistics-fall-2016-course-page.html - an archived copy of coursepage
+1) `cmu-36-705-intermediate-statistics-fall-2016-course-page.html` - an archived copy of coursepage
 showing the lecture schedule, reading references etc. 
 
 2) cmu-36-705-intermediate-statistics-fall-2016-syllabus - self-explanatory.
