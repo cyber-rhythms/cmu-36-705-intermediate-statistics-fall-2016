@@ -29,7 +29,7 @@ This repo also contains the work I produced whilst working through this by mysel
 
 7) `/completed-practice-exams` - my own written solutions to the practice exams.
 
-8) `36-705-lecture-summaries.pdf` - my own summary of the material covered in each lecture. Demarcated by the numbering of the PDF lecture notes, and the date of each Youtube lecture. Contains some further notes on completeness of the Youtube lectures (very occasionally some  lectures are missed/have segments missing).
+8) `36-705-lecture-summaries.pdf` - my own summary of the material covered in each lecture, organised by the numbering of the PDF lecture notes, and the date of each Youtube lecture. Contains some further notes on completeness of the Youtube lectures (very occasionally some  lectures are missed/have segments missing).
 
 Remarks:
 
