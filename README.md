@@ -33,10 +33,10 @@ This repo also contains the work I produced whilst working through this by mysel
 
 Remarks:
 
-homework-assignments - at the time of download, these links were all broken. These were
+`/assigment-questions` - at the time of download, the links to the PDDs were all broken. These were
 located at Studocu.com. It can be attested with a high degree of confidence that these 
-are indeed the ones which were supposed to be available for download from the course page.
+are indeed the ones which were supposed to be available for download from the course page, as they correspond to the questions instructor goes through on the board.
 
-practice-exams - similarly downloaded from Studocu.com
+'/practice-exams` - similarly downloaded from Studocu.com
 
 
