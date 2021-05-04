@@ -12,4 +12,4 @@ HW4 - Q1 b), Q2 b) transcribe,
 
 HW5 - Q3 e), Q5
 
-Pratice Test II - Q1 b), c) d) transcribe, Q4, Q9 b), Q10 c), Q12 
+Pratice Test II - Q4, Q12 
